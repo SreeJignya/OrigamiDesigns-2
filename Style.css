@@ -1,0 +1,22 @@
+h1 {
+    color: red                
+}
+*{
+    background-color: peachpuff;
+    
+}
+
+.header{
+    
+        background-color: aliceblue;
+        display:flex;
+        justify-content :space-between;
+    
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content :space-evenly;
+
+}
